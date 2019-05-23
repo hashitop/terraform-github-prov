@@ -1,1 +1,1 @@
-# terraform-github-prov
+# Terraform - GitHub Provider
